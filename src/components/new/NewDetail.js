@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import NewApi from '../../api/NewApi';
 import Nav from '../common/Nav';
 import Footer from '../common/Footer';
-import { init_all } from '../../assets/vendor/js/all';
+import { init_all } from '../../assets/js/all';
 import * as load from '../../actions/LoadingActions';
 import PropTypes from 'prop-types';
 import { convertDate } from '../../custom/index';
